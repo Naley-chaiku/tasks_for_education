@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Diagnostics.CodeAnalysis;
 using System.Numerics;
 
 namespace Lessons
@@ -7,21 +8,11 @@ namespace Lessons
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Введите число: ");
-            int number = Convert.ToInt32(Console.ReadLine());
-            
-            if (number > 0)
-            {
-                Console.WriteLine("Число положительное!");
-            }
-            else if(number < 0)
-            {
-                Console.WriteLine("Число отрицательное!");
-            }
-            else
-            {
-                Console.WriteLine("Ноль");
-            }
+            int n = Convert.ToInt32(Console.ReadLine());
+
+            int evenCount = 0;
+            int negativeCount = 0;  
+            int positiveSum = 0;
         }
     }
 }
