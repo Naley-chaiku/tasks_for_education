@@ -1,6 +1,7 @@
 <Solution>
-  <Project Path="Homework27.10/Homework27.10.csproj" Id="982459d2-ee6f-469f-ad22-7ff2aff15aac" />
-  <Project Path="If_task1/If_task1.csproj" Id="aa878cd1-00de-4df0-9554-021d012912d8" />
-  <Project Path="task2/task2.csproj" Id="fff9bb6f-f40d-4609-b090-28242d49d89d" />
-  <Project Path="Test_Project/Test_Project.csproj" />
+  <Project Path="../../../../../../source/repos/for_education/Test_Project/Homework27.10/Homework27.10.csproj" Id="982459d2-ee6f-469f-ad22-7ff2aff15aac" />
+  <Project Path="../../../../../../source/repos/for_education/Test_Project/If_task1/If_task1.csproj" Id="aa878cd1-00de-4df0-9554-021d012912d8" />
+  <Project Path="../../../../../../source/repos/for_education/Test_Project/Practice_and_Homework_27_10_26/Practice_and_Homework_27_10_26.csproj" Id="bebd0d60-73e1-41f7-8f62-54184779642c" />
+  <Project Path="../../../../../../source/repos/for_education/Test_Project/task2/task2.csproj" Id="fff9bb6f-f40d-4609-b090-28242d49d89d" />
+  <Project Path="../../../../../../source/repos/for_education/Test_Project/Test_Project/Test_Project.csproj" />
 </Solution>
