@@ -188,11 +188,3 @@ class Program
 
 // задача 7 разварот массива
 
-using System;
-
-class Program
-{
-   
-
-    
-}
